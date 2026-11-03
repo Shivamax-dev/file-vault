@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+
+# Local test sandboxes
+sandbox/
+
+# OS-specific files
+.DS_Store
